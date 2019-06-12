@@ -1,0 +1,14 @@
+/home/josh/exercism/csharp/armstrong-numbers/bin/Debug/netcoreapp2.1/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/home/josh/exercism/csharp/armstrong-numbers/bin/Debug/netcoreapp2.1/xunit.runner.reporters.netcoreapp10.dll
+/home/josh/exercism/csharp/armstrong-numbers/bin/Debug/netcoreapp2.1/xunit.runner.utility.netcoreapp10.dll
+/home/josh/exercism/csharp/armstrong-numbers/bin/Debug/netcoreapp2.1/ArmstrongNumbers.deps.json
+/home/josh/exercism/csharp/armstrong-numbers/bin/Debug/netcoreapp2.1/ArmstrongNumbers.runtimeconfig.json
+/home/josh/exercism/csharp/armstrong-numbers/bin/Debug/netcoreapp2.1/ArmstrongNumbers.runtimeconfig.dev.json
+/home/josh/exercism/csharp/armstrong-numbers/bin/Debug/netcoreapp2.1/ArmstrongNumbers.dll
+/home/josh/exercism/csharp/armstrong-numbers/bin/Debug/netcoreapp2.1/ArmstrongNumbers.pdb
+/home/josh/exercism/csharp/armstrong-numbers/obj/Debug/netcoreapp2.1/ArmstrongNumbers.csprojAssemblyReference.cache
+/home/josh/exercism/csharp/armstrong-numbers/obj/Debug/netcoreapp2.1/ArmstrongNumbers.csproj.CoreCompileInputs.cache
+/home/josh/exercism/csharp/armstrong-numbers/obj/Debug/netcoreapp2.1/ArmstrongNumbers.AssemblyInfoInputs.cache
+/home/josh/exercism/csharp/armstrong-numbers/obj/Debug/netcoreapp2.1/ArmstrongNumbers.AssemblyInfo.cs
+/home/josh/exercism/csharp/armstrong-numbers/obj/Debug/netcoreapp2.1/ArmstrongNumbers.dll
+/home/josh/exercism/csharp/armstrong-numbers/obj/Debug/netcoreapp2.1/ArmstrongNumbers.pdb

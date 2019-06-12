@@ -1,0 +1,76 @@
+package clock
+
+import (
+	"fmt"
+	"strconv"
+)
+
+// Clock API:
+//
+// type Clock                      // define the clock type
+// New(hour, minute int) Clock     // a "constructor"
+// (Clock) String() string         // a "stringer"
+// (Clock) Add(minutes int) Clock
+// (Clock) Subtract(minutes int) Clock
+
+type Clock struct {
+	hours   int
+	minutes int
+}
+
+func New(hours, minutes int) *Clock {
+	clock := new(Clock)
+	clock.hours = hours
+	if clock.hours >= 24 {
+		clock.hours = clock.hours % 24
+	}
+	clock.minutes = minutes
+	if clock.minutes >= 60 {
+		clock.hours += clock.minutes / 60
+		clock.minutes = clock.minutes % 60
+	}
+	return clock
+}
+
+func (clock *Clock) String() string {
+	minutes := strconv.Itoa(clock.minutes)
+	if clock.minutes < 10 {
+		minutes = "0" + strconv.Itoa(clock.minutes)
+	}
+	hours := strconv.Itoa(clock.hours)
+	if clock.hours < 10 {
+		hours = "0" + strconv.Itoa(clock.hours)
+	}
+	return fmt.Sprintf("%s:%s", hours, minutes)
+}
+
+func (clock *Clock) Add(minutes int) *Clock {
+	clock.minutes += minutes
+	for i := 0; clock.minutes >= 60; i++ {
+		clock.minutes -= 60
+		clock.hours++
+	}
+	for i := 0; clock.hours >= 24; i++ {
+		clock.hours -= 24
+	}
+	return clock
+}
+
+func (clock *Clock) Subtract(minutes int) *Clock {
+	clock.minutes -= minutes
+	for i := 0; clock.minutes < 0; i++ {
+		clock.minutes += 60
+		clock.hours--
+	}
+	for i := 0; clock.hours < 0; i++ {
+		clock.hours += 24
+	}
+	return clock
+}
+
+func CompareClocks(clockA, clockB Clock) bool {
+	if clockA.hours == clockB.hours && clockA.minutes == clockB.minutes {
+		return true
+	}
+	return false
+}

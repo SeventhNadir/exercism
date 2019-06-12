@@ -1,0 +1,14 @@
+/home/josh/exercism/csharp/spiral-matrix/bin/Debug/netcoreapp2.1/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/home/josh/exercism/csharp/spiral-matrix/bin/Debug/netcoreapp2.1/xunit.runner.reporters.netcoreapp10.dll
+/home/josh/exercism/csharp/spiral-matrix/bin/Debug/netcoreapp2.1/xunit.runner.utility.netcoreapp10.dll
+/home/josh/exercism/csharp/spiral-matrix/bin/Debug/netcoreapp2.1/SpiralMatrix.deps.json
+/home/josh/exercism/csharp/spiral-matrix/bin/Debug/netcoreapp2.1/SpiralMatrix.runtimeconfig.json
+/home/josh/exercism/csharp/spiral-matrix/bin/Debug/netcoreapp2.1/SpiralMatrix.runtimeconfig.dev.json
+/home/josh/exercism/csharp/spiral-matrix/bin/Debug/netcoreapp2.1/SpiralMatrix.dll
+/home/josh/exercism/csharp/spiral-matrix/bin/Debug/netcoreapp2.1/SpiralMatrix.pdb
+/home/josh/exercism/csharp/spiral-matrix/obj/Debug/netcoreapp2.1/SpiralMatrix.csprojAssemblyReference.cache
+/home/josh/exercism/csharp/spiral-matrix/obj/Debug/netcoreapp2.1/SpiralMatrix.csproj.CoreCompileInputs.cache
+/home/josh/exercism/csharp/spiral-matrix/obj/Debug/netcoreapp2.1/SpiralMatrix.AssemblyInfoInputs.cache
+/home/josh/exercism/csharp/spiral-matrix/obj/Debug/netcoreapp2.1/SpiralMatrix.AssemblyInfo.cs
+/home/josh/exercism/csharp/spiral-matrix/obj/Debug/netcoreapp2.1/SpiralMatrix.dll
+/home/josh/exercism/csharp/spiral-matrix/obj/Debug/netcoreapp2.1/SpiralMatrix.pdb

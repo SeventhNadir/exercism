@@ -1,0 +1,14 @@
+/home/josh/exercism/csharp/tournament/bin/Debug/netcoreapp2.1/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/home/josh/exercism/csharp/tournament/bin/Debug/netcoreapp2.1/xunit.runner.reporters.netcoreapp10.dll
+/home/josh/exercism/csharp/tournament/bin/Debug/netcoreapp2.1/xunit.runner.utility.netcoreapp10.dll
+/home/josh/exercism/csharp/tournament/bin/Debug/netcoreapp2.1/Tournament.deps.json
+/home/josh/exercism/csharp/tournament/bin/Debug/netcoreapp2.1/Tournament.runtimeconfig.json
+/home/josh/exercism/csharp/tournament/bin/Debug/netcoreapp2.1/Tournament.runtimeconfig.dev.json
+/home/josh/exercism/csharp/tournament/bin/Debug/netcoreapp2.1/Tournament.dll
+/home/josh/exercism/csharp/tournament/bin/Debug/netcoreapp2.1/Tournament.pdb
+/home/josh/exercism/csharp/tournament/obj/Debug/netcoreapp2.1/Tournament.csprojAssemblyReference.cache
+/home/josh/exercism/csharp/tournament/obj/Debug/netcoreapp2.1/Tournament.csproj.CoreCompileInputs.cache
+/home/josh/exercism/csharp/tournament/obj/Debug/netcoreapp2.1/Tournament.AssemblyInfoInputs.cache
+/home/josh/exercism/csharp/tournament/obj/Debug/netcoreapp2.1/Tournament.AssemblyInfo.cs
+/home/josh/exercism/csharp/tournament/obj/Debug/netcoreapp2.1/Tournament.dll
+/home/josh/exercism/csharp/tournament/obj/Debug/netcoreapp2.1/Tournament.pdb

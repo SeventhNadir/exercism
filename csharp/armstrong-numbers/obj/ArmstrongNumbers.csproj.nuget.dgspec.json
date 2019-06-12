@@ -1,0 +1,70 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/josh/exercism/csharp/armstrong-numbers/ArmstrongNumbers.csproj": {}
+  },
+  "projects": {
+    "/home/josh/exercism/csharp/armstrong-numbers/ArmstrongNumbers.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/josh/exercism/csharp/armstrong-numbers/ArmstrongNumbers.csproj",
+        "projectName": "ArmstrongNumbers",
+        "projectPath": "/home/josh/exercism/csharp/armstrong-numbers/ArmstrongNumbers.csproj",
+        "packagesPath": "/home/josh/.nuget/packages/",
+        "outputPath": "/home/josh/exercism/csharp/armstrong-numbers/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/home/josh/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[15.8.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

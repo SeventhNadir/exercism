@@ -1,0 +1,14 @@
+/home/josh/exercism/csharp/circular-buffer/bin/Debug/netcoreapp2.1/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/home/josh/exercism/csharp/circular-buffer/bin/Debug/netcoreapp2.1/xunit.runner.reporters.netcoreapp10.dll
+/home/josh/exercism/csharp/circular-buffer/bin/Debug/netcoreapp2.1/xunit.runner.utility.netcoreapp10.dll
+/home/josh/exercism/csharp/circular-buffer/bin/Debug/netcoreapp2.1/CircularBuffer.deps.json
+/home/josh/exercism/csharp/circular-buffer/bin/Debug/netcoreapp2.1/CircularBuffer.runtimeconfig.json
+/home/josh/exercism/csharp/circular-buffer/bin/Debug/netcoreapp2.1/CircularBuffer.runtimeconfig.dev.json
+/home/josh/exercism/csharp/circular-buffer/bin/Debug/netcoreapp2.1/CircularBuffer.dll
+/home/josh/exercism/csharp/circular-buffer/bin/Debug/netcoreapp2.1/CircularBuffer.pdb
+/home/josh/exercism/csharp/circular-buffer/obj/Debug/netcoreapp2.1/CircularBuffer.csprojAssemblyReference.cache
+/home/josh/exercism/csharp/circular-buffer/obj/Debug/netcoreapp2.1/CircularBuffer.csproj.CoreCompileInputs.cache
+/home/josh/exercism/csharp/circular-buffer/obj/Debug/netcoreapp2.1/CircularBuffer.AssemblyInfoInputs.cache
+/home/josh/exercism/csharp/circular-buffer/obj/Debug/netcoreapp2.1/CircularBuffer.AssemblyInfo.cs
+/home/josh/exercism/csharp/circular-buffer/obj/Debug/netcoreapp2.1/CircularBuffer.dll
+/home/josh/exercism/csharp/circular-buffer/obj/Debug/netcoreapp2.1/CircularBuffer.pdb

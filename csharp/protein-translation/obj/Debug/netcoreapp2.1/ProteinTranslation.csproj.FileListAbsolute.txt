@@ -1,0 +1,14 @@
+/home/josh/exercism/csharp/protein-translation/bin/Debug/netcoreapp2.1/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/home/josh/exercism/csharp/protein-translation/bin/Debug/netcoreapp2.1/xunit.runner.reporters.netcoreapp10.dll
+/home/josh/exercism/csharp/protein-translation/bin/Debug/netcoreapp2.1/xunit.runner.utility.netcoreapp10.dll
+/home/josh/exercism/csharp/protein-translation/bin/Debug/netcoreapp2.1/ProteinTranslation.deps.json
+/home/josh/exercism/csharp/protein-translation/bin/Debug/netcoreapp2.1/ProteinTranslation.runtimeconfig.json
+/home/josh/exercism/csharp/protein-translation/bin/Debug/netcoreapp2.1/ProteinTranslation.runtimeconfig.dev.json
+/home/josh/exercism/csharp/protein-translation/bin/Debug/netcoreapp2.1/ProteinTranslation.dll
+/home/josh/exercism/csharp/protein-translation/bin/Debug/netcoreapp2.1/ProteinTranslation.pdb
+/home/josh/exercism/csharp/protein-translation/obj/Debug/netcoreapp2.1/ProteinTranslation.csprojAssemblyReference.cache
+/home/josh/exercism/csharp/protein-translation/obj/Debug/netcoreapp2.1/ProteinTranslation.csproj.CoreCompileInputs.cache
+/home/josh/exercism/csharp/protein-translation/obj/Debug/netcoreapp2.1/ProteinTranslation.AssemblyInfoInputs.cache
+/home/josh/exercism/csharp/protein-translation/obj/Debug/netcoreapp2.1/ProteinTranslation.AssemblyInfo.cs
+/home/josh/exercism/csharp/protein-translation/obj/Debug/netcoreapp2.1/ProteinTranslation.dll
+/home/josh/exercism/csharp/protein-translation/obj/Debug/netcoreapp2.1/ProteinTranslation.pdb

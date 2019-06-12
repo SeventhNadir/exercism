@@ -1,0 +1,14 @@
+/home/josh/exercism/csharp/bracket-push/bin/Debug/netcoreapp2.1/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/home/josh/exercism/csharp/bracket-push/bin/Debug/netcoreapp2.1/xunit.runner.reporters.netcoreapp10.dll
+/home/josh/exercism/csharp/bracket-push/bin/Debug/netcoreapp2.1/xunit.runner.utility.netcoreapp10.dll
+/home/josh/exercism/csharp/bracket-push/bin/Debug/netcoreapp2.1/BracketPush.deps.json
+/home/josh/exercism/csharp/bracket-push/bin/Debug/netcoreapp2.1/BracketPush.runtimeconfig.json
+/home/josh/exercism/csharp/bracket-push/bin/Debug/netcoreapp2.1/BracketPush.runtimeconfig.dev.json
+/home/josh/exercism/csharp/bracket-push/bin/Debug/netcoreapp2.1/BracketPush.dll
+/home/josh/exercism/csharp/bracket-push/bin/Debug/netcoreapp2.1/BracketPush.pdb
+/home/josh/exercism/csharp/bracket-push/obj/Debug/netcoreapp2.1/BracketPush.csprojAssemblyReference.cache
+/home/josh/exercism/csharp/bracket-push/obj/Debug/netcoreapp2.1/BracketPush.csproj.CoreCompileInputs.cache
+/home/josh/exercism/csharp/bracket-push/obj/Debug/netcoreapp2.1/BracketPush.AssemblyInfoInputs.cache
+/home/josh/exercism/csharp/bracket-push/obj/Debug/netcoreapp2.1/BracketPush.AssemblyInfo.cs
+/home/josh/exercism/csharp/bracket-push/obj/Debug/netcoreapp2.1/BracketPush.dll
+/home/josh/exercism/csharp/bracket-push/obj/Debug/netcoreapp2.1/BracketPush.pdb
