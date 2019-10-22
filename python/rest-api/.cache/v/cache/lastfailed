@@ -1,0 +1,11 @@
+{
+  "rest_api_test.py::RestAPITest::test_add_user": true, 
+  "rest_api_test.py::RestAPITest::test_borrower_has_negative_balance": true, 
+  "rest_api_test.py::RestAPITest::test_get_single_user": true, 
+  "rest_api_test.py::RestAPITest::test_iou_both_users_have_0_balance": true, 
+  "rest_api_test.py::RestAPITest::test_lender_has_negative_balance": true, 
+  "rest_api_test.py::RestAPITest::test_lender_owes_borrower": true, 
+  "rest_api_test.py::RestAPITest::test_lender_owes_borrower_less_than_new_loan": true, 
+  "rest_api_test.py::RestAPITest::test_lender_owes_borrower_same_as_new_loan": true, 
+  "rest_api_test.py::RestAPITest::test_no_users": true
+}

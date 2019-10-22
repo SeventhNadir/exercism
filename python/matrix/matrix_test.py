@@ -39,6 +39,11 @@ class MatrixTest(unittest.TestCase):
         matrix = Matrix("89 1903 3\n18 3 1\n9 4 800")
         self.assertEqual(matrix.column(2), [1903, 3, 4])
 
+    def test_column_return_is_immutable(self):
+        matrix = Matrix("1 2 3\n4 5 6\n7 8 9")
+        uut = matrix.column(3)
+        self.assertEqual(matrix.column(3), [3, 6, 9])
+
 
 if __name__ == "__main__":
     unittest.main()
